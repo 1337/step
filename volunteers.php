@@ -132,8 +132,8 @@ Development team.</p>
                 <div class="acontent">
                     <div>Thanks for all your help!<br /><br /></div>
                     <div class="col2">
-                        <img src="img/mugshots/Leah Korganowski.JPG" class="imgfloat avatar" /><br /><br />
-                        Leah Korganowski
+                        <img src="img/mugshots/.JPG" class="imgfloat avatar" /><br /><br />
+                        
                     </div>
                     <div class="col2">
                         <img src="img/mugshots/Andrew Martson.JPG" class="imgfloat avatar" /><br /><br />
